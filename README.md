@@ -1,2 +1,1 @@
-# Newton-s-Cradle
-GOOD
+# NC27
